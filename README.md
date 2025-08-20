@@ -32,9 +32,11 @@ The dashboard analyzes this mock POS sales data across time, sector, category, a
 ### Screenshots
 
 **Unfiltered Dashboard**
+
 ![Unfiltered Dashboard](/images/sales_dashboard_unfiltered.png)
 
 **Filtered Dashboard**
+
 ![Filtered Dashboard](/images/sales_dashboard_filtered.png)
 
 
