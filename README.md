@@ -32,10 +32,10 @@ The dashboard analyzes this mock POS sales data across time, sector, category, a
 ### Screenshots
 
 **Unfiltered Dashboard**
-![Unfiltered Dashboard](https://raw.githubusercontent.com/zlaw-21/power-BI-Sales-Dashboard/main/images/sales_dashboard_unfiltered.png)
+![Unfiltered Dashboard](/images/sales_dashboard_unfiltered.png)
 
 **Filtered Dashboard**
-![Filtered Dashboard](https://raw.githubusercontent.com/zlaw-21/power-BI-Sales-Dashboard/main/images/sales_dashboard_filtered.png)
+![Filtered Dashboard](/images/sales_dashboard_filtered.png)
 
 
 ### DAX and Data Model
