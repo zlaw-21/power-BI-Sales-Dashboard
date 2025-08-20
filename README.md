@@ -20,11 +20,14 @@ The dashboard analyzes this mock POS sales data across time, sector, category, a
 ### Features
 
 **KPI Cards:** Total Dollar Sales and Unit Sales
+
 **Time Filtering:** Week-based slicer with earliest and latest available dates
+
 **Segmentation:**
 - Sales by Sector (Home Care vs. Family Care)
 - Sales by Category (Dish Care, Air Care, Bath Tissue)
 - Sales by Brand (ranked by total POS sales)
+
 **Trend Analysis:** Sales over Time
 
 
