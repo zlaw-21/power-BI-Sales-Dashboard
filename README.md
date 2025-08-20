@@ -6,8 +6,7 @@
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [DAX and Data Model](#dax-and-data-model)
-- [Key Takeaways](key-takeaways)
-- [Areas of Opportunity](#areas-of-opportunity)
+- [Key Takeaways](#key-takeaways)
 
 
 ### Introduction
