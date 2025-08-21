@@ -19,7 +19,7 @@ The dashboard analyzes this mock POS sales data across time, sector, category, a
 
 ### Features
 
-**KPI Cards:** Total Dollar Sales and Unit Sales
+**KPI Cards:** Total Dollar Sales and Total Unit Sales
 
 **Time Filtering:** Week-based slicer with earliest and latest available dates
 
